@@ -1,4 +1,7 @@
 ## Hi there 👋
+Currently working on 'Plataforma de Crédito - SINCR'
+Box Crédito Comercial.
+
 
 <!--
 **karynapirola/karynapirola** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
